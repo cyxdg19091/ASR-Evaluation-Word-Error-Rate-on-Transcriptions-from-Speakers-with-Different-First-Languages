@@ -2,7 +2,7 @@
 
 Compare the Word Error Rate between different ASR transcriptions.
 
-Linyu Zhang, 22-737-993
+Linyu Zhang
 
 ## Introduction
 
