@@ -2,7 +2,7 @@
 
 Compare the Word Error Rate between different ASR transcriptions.
 
-Auther: Linyu Zhang
+Author: Linyu Zhang
 
 ## Introduction
 
